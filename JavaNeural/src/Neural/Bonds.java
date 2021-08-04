@@ -7,6 +7,9 @@ public class Bonds {
         System.out.println("Hello World");
         System.out.println("Construction complete");
         System.out.println("Try it");
+
+        System.out.println("Try to second");
+        System.out.println("Try it one");
     }
 
 
