@@ -9,7 +9,5 @@ public class localA {
 //And push this code to my remote branch
 
 
-=======
-public class localA {
->>>>>>> origin/master
+
 }
